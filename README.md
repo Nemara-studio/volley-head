@@ -29,3 +29,10 @@ You can see the GDD Volley Head on the link below
 <img src="https://i.imgur.com/nKarmFs.jpg" width="720"/>
 <img src="https://i.imgur.com/iA10B7c.jpg" width="720"/>
 
+
+## Technology used in this project
+- Unity 2020 (Game Engine)
+- Mirror (Networking library for Unity)
+- Azure (Server)
+- Adobe Illustrator (Assets Maker)
+- Soundtrap, and Audacity (Sound FX and Audio Maker)
