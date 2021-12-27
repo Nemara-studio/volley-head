@@ -1,6 +1,15 @@
 # <img src="https://i.imgur.com/dJ3ecyL.png" width="256"/>
 Volley Head is a competitive multiplayer game where there are 2 teams of 2 players. The teams will face each other with a game like volleyball. The team that reaches the target points first will win the match.
 
+## Contents :
+* [HOW TO PLAY](#how-to-play)
+* [GAME RULES](#game-rules)
+* [GAME DESIGN DOCUMENT](#game-design-document)
+* [GAME SCREENSHOT](#game-screenshot)
+* [DOWNLOAD GAME APK](#download-game-apk)
+* [USED TECHNOLOGY](#used-technology)
+* [VOLLEY HEAD SERVER DEPLOYMENT](#volley-head-server-deployment)
+
 ## HOW TO PLAY
 1. To start the game, one player must create a room, and the other player will enter the room using the provided code.
 2. If the minimum number of players is reached, the room master can click the "START" button to start the match.
