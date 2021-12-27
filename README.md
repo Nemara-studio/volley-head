@@ -38,7 +38,7 @@ You can see the Volley Head GDD in [here](/Game%20Design%20Document/GDD%20Head%2
 - Soundtrap, and Audacity (Sound FX and Audio Maker)
 
 ## VOLLEY HEAD SERVER DEPLOYMENT
-1. We used a Azure Virtual Machine with OS Linux Debian 9 to run the Volley Head Server.
+1. We used a **Azure Virtual Machine** with OS Linux Debian 9 to run the Volley Head Server.
 <br/><img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-azurevirtualmachines/0.4.1/1629848176673/Microsoft.VisualStudio.Services.Icons.Default" width="120"/>
 2. First, we create a linux virtual machine with the following specifications :
 ```
@@ -58,7 +58,7 @@ Size : Standard - 1vcpu, 1 GiB memory
 6. Next, setup the network ip in unity project and fill that with a virtual machine private ip.
 <br/><img src="https://i.ibb.co/h7P9hKK/image.png" width="360"/>&emsp;&emsp;<img src="https://i.ibb.co/PNmDGr8/image.png" width="240"/>
 7. Build the unity project with target build for Linux and enable server build setting. And then ZIP all the build file.
-<br/>[Unity Build](https://i.ibb.co/VVxk0Z2/image.png)
+<br/><img src="https://i.ibb.co/VVxk0Z2/image.png" width="360"/>
 8. Upload the zipped build file to virtual machine. To upload run a command in CMD.
 <br/>``` scp file_location username@vm_ip:target_location ```
 9. Back to virtual machine command prompt. And unzip the server build file that already uploaded with command:
