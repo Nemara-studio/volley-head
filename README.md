@@ -17,9 +17,7 @@ Volley Head is a competitive multiplayer game where there are 2 teams of 2 playe
 - First team to get 10 point is the Winner.
 
 ## Game Design Document
-You can see the GDD Volley Head on the link below 
-
-[LINK GDD](https://bit.ly/32y80lD)
+You can see the Volley Head GDD in [here](/Game%20Design%20Document/GDD%20Head%20Volleyball.pdf)
 
 ## Game Screenshot
 <img src="https://i.imgur.com/OyNySqK.jpg" width="720"/>
