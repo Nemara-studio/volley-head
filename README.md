@@ -39,3 +39,9 @@ You can see the GDD Volley Head on the link below
 - Azure (Server)
 - Adobe Illustrator (Assets Maker)
 - Soundtrap, and Audacity (Sound FX and Audio Maker)
+
+## Team Member
+- Andhika Arista    as Artist
+- Auriel Harlih     as Programmer
+- Irfan Muhammad    as Sound Engineer and Game Designer
+- Natan Andro       as Artist
